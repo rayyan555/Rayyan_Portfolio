@@ -1,12 +1,45 @@
-# React + Vite
+# 🌐 Rayyan A — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using **React.js**, **Tailwind CSS**, and **Framer Motion**.  
+This site showcases my technical skills, projects, certifications, and experience as a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Smooth animations using **Framer Motion**
+- 💡 Typing effect with **react-type-animation**
+- 🎨 Responsive and styled with **Tailwind CSS**
+- 🧠 Showcases my AI/ML skills, projects, and achievements
+- 📄 Resume download feature
+- 🌍 Deployed on **Vercel**
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Coming soon...
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Icons**
+- **React Type Animation**
+- **Vercel** (for deployment)
+
+## 📁 Folder Structure
+
+├── public/
+│ └── images/ # Profile images, assets
+├── src/
+│ ├── components/ # React components like Hero, About, etc.
+│ ├── App.jsx # Main app
+│ └── index.js # Entry point
+├── .gitignore
+├── package.json
+└── README.md
+
+
+## 📄 Live Demo
+
+🌐 [Visit My Portfolio](https://your-vercel-url.vercel.app)
+
+
